@@ -2,20 +2,20 @@
   "groups": [
     {
       "name": "limits-service",
-      "type": "com.example.limitsservice1.configuration.Configuration",
-      "sourceType": "com.example.limitsservice1.configuration.Configuration"
+      "type": "com.example.limitsservice.configuration.Configuration",
+      "sourceType": "com.example.limitsservice.configuration.Configuration"
     }
   ],
   "properties": [
     {
       "name": "limits-service.maximum",
       "type": "java.lang.Integer",
-      "sourceType": "com.example.limitsservice1.configuration.Configuration"
+      "sourceType": "com.example.limitsservice.configuration.Configuration"
     },
     {
       "name": "limits-service.minimum",
       "type": "java.lang.Integer",
-      "sourceType": "com.example.limitsservice1.configuration.Configuration"
+      "sourceType": "com.example.limitsservice.configuration.Configuration"
     }
   ],
   "hints": []
