@@ -1,0 +1,5 @@
+META-INF/spring-configuration-metadata.json
+com/example/limitsservice/bean/Limits.class
+com/example/limitsservice/LimitsServiceApplication.class
+com/example/limitsservice/controller/LimitsController.class
+com/example/limitsservice/configuration/Configuration.class

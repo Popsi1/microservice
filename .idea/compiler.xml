@@ -8,22 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway" />
         <module name="currency-exchange" />
+        <module name="currency-conversion" />
         <module name="limits-service" />
-        <module name="currencyConversion" />
         <module name="naming-server" />
         <module name="spring-cloud-config-server" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="currency-conversion" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api-gateway" options="-parameters" />
       <module name="currency-conversion" options="-parameters" />
       <module name="currency-exchange" options="-parameters" />
-      <module name="currencyConversion" options="-parameters" />
       <module name="limits-service" options="-parameters" />
       <module name="naming-server" options="-parameters" />
       <module name="spring-cloud-config-server" options="-parameters" />

@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/currency-exchange/currency-exchange.iml" filepath="$PROJECT_DIR$/currency-exchange/currency-exchange.iml" />
-      <module fileurl="file://$PROJECT_DIR$/currencyConversion/currencyConversion.iml" filepath="$PROJECT_DIR$/currencyConversion/currencyConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/limits-service/limits-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice.iml" filepath="$PROJECT_DIR$/.idea/microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/naming-server/naming-server.iml" filepath="$PROJECT_DIR$/naming-server/naming-server.iml" />

@@ -1,0 +1,5 @@
+com/example/currencyexchange/CurrencyExchangeApplication.class
+com/example/currencyexchange/CurrencyExchangeRepository.class
+com/example/currencyexchange/CurrencyExchangeController.class
+com/example/currencyexchange/CircuitBreakerController.class
+com/example/currencyexchange/CurrencyExchange.class
